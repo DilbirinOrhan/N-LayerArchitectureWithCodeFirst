@@ -22,15 +22,26 @@ namespace Business_Logic_Layer
                 var result = await client.GetAsync(_apiUrl);
                 result.EnsureSuccessStatusCode();
                 string resultContentString = await result.Content.ReadAsStringAsync();
-                List<Post> resultContent = JsonConvert.DeserializeObject<List<Post>>(resultContentString);
-                return resultContent;
+                List<ApiEntity> resultContent = JsonConvert.DeserializeObject<List<ApiEntity>>(resultContentString);
+                List<Post> postList = new List<Post>();
+                foreach (var content in resultContent)
+                {
+                    postList.Add((new Post()
+                    {
+                        PostId = content.Id,
+                        Body = content.Body,
+                        Title = content.Title,
+                        UserId = content.UserId
+                    }));
+                }
+                return postList;
             }
 
 
 
         }
 
-        public async Task<Post> GetPostById(int id)
+        public async Task<ApiEntity> GetPostById(int id)
         {
             var url = _apiUrl + "/" + id;
             using (var client = new HttpClient())
@@ -38,7 +49,14 @@ namespace Business_Logic_Layer
                 var result = await client.GetAsync(url);
                 result.EnsureSuccessStatusCode();
                 string resultContentString = await result.Content.ReadAsStringAsync();
-                Post resultContent = JsonConvert.DeserializeObject<Post>(resultContentString);
+                ApiEntity resultContent = JsonConvert.DeserializeObject<ApiEntity>(resultContentString);
+               var post=((new Post()
+                {
+                    PostId = resultContent.Id,
+                    Body = resultContent.Body,
+                    Title = resultContent.Title,
+                    UserId = resultContent.UserId
+                }));
                 return resultContent;
             }
         }

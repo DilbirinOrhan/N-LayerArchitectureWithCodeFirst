@@ -9,3 +9,8 @@ C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\bin\D
 C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.csprojResolveAssemblyReference.cache
 C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.dll
 C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.pdb
+C:\Users\Dilbirin\Documents\GitHub\N-LayerArchitectureWithCodeFirst\LayeredArchitectureWithCodeFirst\Entities1\bin\Debug\Entities1.dll
+C:\Users\Dilbirin\Documents\GitHub\N-LayerArchitectureWithCodeFirst\LayeredArchitectureWithCodeFirst\Entities1\bin\Debug\Entities1.pdb
+C:\Users\Dilbirin\Documents\GitHub\N-LayerArchitectureWithCodeFirst\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.csprojResolveAssemblyReference.cache
+C:\Users\Dilbirin\Documents\GitHub\N-LayerArchitectureWithCodeFirst\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.dll
+C:\Users\Dilbirin\Documents\GitHub\N-LayerArchitectureWithCodeFirst\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.pdb

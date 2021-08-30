@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Entities1
 {
-    public class Post
+    public class ApiEntity
     {
         public int UserId { get; set; }
         public int Id { get; set; }
-        public int PostId { get; set; }
         public string Title { get; set; }
-		public string Body { get; set; }
-	}
+        public string Body { get; set; }
+    }
 }

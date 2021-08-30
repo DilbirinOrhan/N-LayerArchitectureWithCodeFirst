@@ -12,11 +12,11 @@ namespace DataAccessLayer.Mapping
 	{
 		public PostMap() 
 		{
-			//HasKey(c => c.Id)
-			//		.Property(x => x.Id)
-			//		.HasDatabaseGeneratedOption(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.Identity);
+            HasKey(c => c.Id)
+                    .Property(x => x.Id)
+                    .HasDatabaseGeneratedOption(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.Identity);
 
-			Property(c => c.Title).HasMaxLength(200).IsRequired();
+            Property(c => c.Title).HasMaxLength(200).IsRequired();
 			Property(c => c.Body).HasMaxLength(1000).IsRequired();
 
 
