@@ -1,0 +1,11 @@
+C:\Users\vendrops4\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\bin\Debug\Entities1.dll
+C:\Users\vendrops4\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\bin\Debug\Entities1.pdb
+C:\Users\vendrops4\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.csprojAssemblyReference.cache
+C:\Users\vendrops4\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.csproj.CoreCompileInputs.cache
+C:\Users\vendrops4\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.dll
+C:\Users\vendrops4\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.pdb
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\bin\Debug\Entities1.dll
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\bin\Debug\Entities1.pdb
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.csprojResolveAssemblyReference.cache
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.dll
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Entities1\obj\Debug\Entities1.pdb

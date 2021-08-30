@@ -1,0 +1,13 @@
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\Business Logic Layer.dll
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\Business Logic Layer.pdb
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\Entities1.dll
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\EntityFramework.dll
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\Entities1.pdb
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\bin\Debug\EntityFramework.xml
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\obj\Debug\Business Logic Layer.csprojResolveAssemblyReference.cache
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\obj\Debug\Business Logic Layer.dll
+C:\Users\Dilbirin\Desktop\Proje\LayeredArchitectureWithCodeFirst\Business Logic Layer\obj\Debug\Business Logic Layer.pdb
